@@ -1,0 +1,77 @@
+body{
+  background-image:url("Honey.jpg");
+position: fixed;
+zoom: none;
+}
+
+.sana{
+  margin-left:50px;
+background-color:red;
+width:800px;
+height:600px;
+border-radius:90px;
+background: rgba(0.1, 0.4, 0.8, 0.1);
+backdrop-filter: blur(5px);
+box-shadow:0 4px 10px rgba(0.2, 255, 255, 0.2);
+  
+  
+}
+
+.login-container h1 {
+ text-align: center;
+ margin-top:600px;
+ color:white;
+ font-size:50px;
+
+}
+.login-container h2 {
+  margin-left:250px;
+  color: white ;
+  
+  
+}
+input{
+  margin-left:250px;
+  width:500px;
+  height:20px;
+  border:none;
+  border-bottom:2px solid white;
+  background: transparent ;
+  outline:none;
+  color:red;
+  font-size: 16px;
+  
+}
+input::placeholder {
+  color:pink;
+  
+}
+h3{
+  margin-left:100px;
+
+  
+}
+h4{
+  display:inline;
+  margin-right:10px;
+  color:white;
+  
+  
+}
+
+button{
+  width:500px;
+  height:50px;
+  color:red;
+  background-color:#52425A;
+  margin-left:230px;
+  border-radius: 30px;
+ 
+  
+  
+}
+j{
+ margin-left: 500px;
+  
+  
+}
